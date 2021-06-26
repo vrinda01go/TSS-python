@@ -97,14 +97,5 @@ Check out this [Notebook](https://github.com/abhipaiangle/learners-space/blob/ma
 
 To read more about Iterators refer [this](https://www.geeksforgeeks.org/iterators-in-python/)
 
-## **Classes and Objects** 
-A class is a user defined blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all objects of one type. You can think of a class as a collection of many different functions and attributes (variables) that can be accessed by an object of that class. These methods inside a class are defined almost in the same way normal Python functions are defined, with a major difference being the 'self' argument and some special methods only found in a class body, for example:- the '_init_' method, '_add_' method, etc.
 
-An Object is a basic unit of Object Oriented Programming and a way to represent the classes you have declared in your program. And thus an object can also be sometimes called an instance of a class. Whenever you create an object of a class, you can access all the methods which you have declared in the body of the class. (Note that this is not possible in the case of Private classes (covered later)).
-
-You can check out any one of these detailed tutorials on Classes and Objects in Python based on your preference -
-
-* [Python Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
-* [Python Classes and Objects Detailed](https://www.programiz.com/python-programming/class)
-Detailed Video Tutorials on Classes and Objects - [Video #1](https://www.youtube.com/watch?v=v_Jp11xqCzg&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=3) and [Video #2](https://www.youtube.com/watch?v=jQiUOV15IRI&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=3)
 
