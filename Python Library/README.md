@@ -7,3 +7,17 @@ NumPy’s main object is the homogeneous multidimensional array where their dime
 ### Installation of Numpy
   For installation you can refer [this](https://www.w3schools.com/python/numpy/numpy_getting_started.asp)
   Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword. 
+
+
+
+## Pandas
+Pandas is an open-source Python package that provides high-performance, easy-to-use data structures and data analysis tools for the labeled data in Python programming language. Pandas stand for **Python Data Analysis Library**.
+**When to use?**
+Pandas is a perfect tool for data wrangling or munging. It is designed for quick and easy data manipulation, reading, aggregation, and visualization.
+Pandas take data in a CSV or TSV file or a SQL database and create a Python object with rows and columns called a data frame. The data frame is very similar to a table in statistical software, say Excel or SPSS.
+
+### What can you do with Pandas?
+* Indexing, manipulating, renaming, sorting, merging data frame
+* Update, Add, Delete columns from a data frame
+* Impute missing files, handle missing data or NANs
+* Plot data with histogram or box plot
