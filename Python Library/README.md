@@ -34,7 +34,7 @@ Matplotlib also facilitates labels, grids, legends, and some more formatting ent
  
  
 ## Seaborn
-Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or this [documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn
+Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or [Seaborn documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn.
 
 
 
