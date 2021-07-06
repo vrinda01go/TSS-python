@@ -30,6 +30,11 @@ Matplotlib also facilitates labels, grids, legends, and some more formatting ent
 ### Installation of Matplotlib
  For installation you can refer [this](https://www.w3schools.com/python/matplotlib_getting_started.asp)
  Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword.
+ 
+ 
+ 
+## Seaborn
+Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or this [documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn
 
 
 
