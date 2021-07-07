@@ -59,7 +59,8 @@ Check this [notebook](https://github.com/vrinda01go/TSS-python/blob/main/Python%
  
  
 ## Seaborn
-Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or [Seaborn documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn.
+Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or [this](https://www.datacamp.com/community/tutorials/seaborn-python-tutorial).
+You can also look at [Seaborn documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn.
 
 
 
