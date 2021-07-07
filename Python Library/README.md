@@ -16,8 +16,12 @@ NumPy stands for Numerical Python. One of the most fundamental packages in Pytho
 NumPy’s main object is the homogeneous multidimensional array where their dimensions are called axes and the number of axes is called rank. NumPy’s array class is called ndarray aka array.To read more about NumPy head over to this [link](https://numpy.org/doc/stable/user/whatisnumpy.html)
 
 ### Installation of Numpy
-  For installation you can refer [this](https://www.w3schools.com/python/numpy/numpy_getting_started.asp)
-  Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword. 
+For installation you can refer [this](https://www.w3schools.com/python/numpy/numpy_getting_started.asp)
+Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword. 
+  
+### Getting Started With Numpy
+
+Check this [notebook](https://github.com/vrinda01go/TSS-python/blob/main/Python%20Library/NumPy.ipynb) to get basic knowledge of Numpy.Relevant links to websites and documentations have been provided in the notebook itself.  
 
 
 
@@ -33,19 +37,31 @@ Pandas take data in a CSV or TSV file or a SQL database and create a Python obje
 * Impute missing files, handle missing data or NANs
 * Plot data with histogram or box plot
 
+### Getting Started With Pandas
+
+Check this [notebook](https://github.com/vrinda01go/TSS-python/blob/main/Python%20Library/Pandas.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
+
+
+
 ## Matplotlib
 Matplotlib is a data visualization library and 2-D plotting library of Python.It is a close resemblance to MATLAB embedded in Python programming language.
 Histogram, bar plots, scatter plots, area plot to pie plot, Matplotlib can depict a wide range of visualizations. With a bit of effort and tint of visualization capabilities, with Matplotlib, you can create just any visualizations.
 Matplotlib also facilitates labels, grids, legends, and some more formatting entities with Matplotlib. Basically, everything that can be drawn!
 
 ### Installation of Matplotlib
- For installation you can refer [this](https://www.w3schools.com/python/matplotlib_getting_started.asp)
- Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword.
- 
+For installation you can refer [this](https://www.w3schools.com/python/matplotlib_getting_started.asp)
+Once you are done with the installation part , you can use it by importing it in your applications by adding **import** keyword.
+
+### Getting Started With Matplotlib
+
+Check this [notebook](https://github.com/vrinda01go/TSS-python/blob/main/Python%20Library/Matplotlib.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
+
  
  
 ## Seaborn
 Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or [Seaborn documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn.
+
+
 
 ## Scikit-learn
 
