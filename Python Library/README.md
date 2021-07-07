@@ -25,6 +25,7 @@ Check this [notebook](https://github.com/vrinda01go/TSS-python/blob/main/Python%
 
 
 
+
 ## Pandas
 Pandas is an open-source Python package that provides high-performance, easy-to-use data structures and data analysis tools for the labeled data in Python programming language. Pandas stand for **Python Data Analysis Library**.
 **When to use?**
@@ -43,6 +44,7 @@ Check this [notebook](https://github.com/vrinda01go/TSS-python/blob/main/Python%
 
 
 
+
 ## Matplotlib
 Matplotlib is a data visualization library and 2-D plotting library of Python.It is a close resemblance to MATLAB embedded in Python programming language.
 Histogram, bar plots, scatter plots, area plot to pie plot, Matplotlib can depict a wide range of visualizations. With a bit of effort and tint of visualization capabilities, with Matplotlib, you can create just any visualizations.
@@ -58,9 +60,11 @@ Check this [notebook](https://github.com/vrinda01go/TSS-python/blob/main/Python%
 
  
  
+ 
 ## Seaborn
 Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or [this](https://www.datacamp.com/community/tutorials/seaborn-python-tutorial).
 You can also look at [Seaborn documenation](http://seaborn.pydata.org/introduction.html) to know more about Seaborn.
+
 
 
 
