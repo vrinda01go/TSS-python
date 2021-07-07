@@ -36,6 +36,18 @@ Matplotlib also facilitates labels, grids, legends, and some more formatting ent
 ## Seaborn
 Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or [Seaborn documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn.
 
+## scikit-learn
+
+Scikit-learn is a free software library for Machine Learning coding primarily in the Python programming language.Scikit-learn is built on top of other Python libraries like NumPy, SciPy,  Matplotlib, Pandas, etc. and so it provides full interoperability with these libraries.You can implement various Supervised and Unsupervised Machine learning models on Scikit-learn like Classification, Regression, Support Vector Machines, Random Forests, Nearest Neighbors, Naive Bayes, Decision Trees, Clustering, etc. with Scikit-learn. 
+
+### Components of scikit-learn
+Scikit-learn comes loaded with a lot of features. Here are a few of them to help you understand the spread:
+* **Supervised learning algorithms**: Think of any supervised machine learning algorithm you might have heard about and there is a very high chance that it is part of scikit-learn. Starting from Generalized linear models (e.g Linear Regression), Support Vector Machines (SVM), Decision Trees to Bayesian methods – all of them are part of scikit-learn toolbox.
+* **Cross-validation**: There are various methods to check the accuracy of supervised models on unseen data using sklearn.
+* **Unsupervised learning algorithms**: Again there is a large spread of machine learning algorithms in the offering – starting from clustering, factor analysis, principal    component analysis to unsupervised neural networks.
+* **Feature extraction**: Scikit-learn for extracting features from images and text
+
+Check out [this documentation](https://scikit-learn.org/stable/) to get a deeper understanding of deploying it in machine learning, pre-processing, cross-validation and visualization algorithms.
 
 
 
