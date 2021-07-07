@@ -36,7 +36,7 @@ Matplotlib also facilitates labels, grids, legends, and some more formatting ent
 ## Seaborn
 Check out [this](https://www.w3schools.com/python/numpy/numpy_random_seaborn.asp) or [Seaborn documenation](http://seaborn.pydata.org/introduction.html) to know about Seaborn.
 
-## scikit-learn
+## Scikit-learn
 
 Scikit-learn is a free software library for Machine Learning coding primarily in the Python programming language.Scikit-learn is built on top of other Python libraries like NumPy, SciPy,  Matplotlib, Pandas, etc. and so it provides full interoperability with these libraries.You can implement various Supervised and Unsupervised Machine learning models on Scikit-learn like Classification, Regression, Support Vector Machines, Random Forests, Nearest Neighbors, Naive Bayes, Decision Trees, Clustering, etc. with Scikit-learn. 
 
