@@ -1,3 +1,14 @@
+# Welcome to Week 2 of Learner Space's Python and its Applications!
+
+For this week we will look at Applications of Python in Data Analysis fields and will cover various python libraries used for this namely :
+* [Numpy](#Numpy)
+* [Pandas](#Pandas)
+* [Matplotlib](#Matplotlib)
+* [Seaborn](#Seaborn)
+* [Scikit-learn](#Scikit-learn)
+* [Assignment](#Assignment)
+
+Let's get started!
 
 ## Numpy
 ### What is NumPy?
